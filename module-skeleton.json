@@ -1,0 +1,25 @@
+{
+  "repository": "module-scheduler-queues-flutter",
+  "capabilityKey": "liberusoftware/scheduler-queues",
+  "presentation": "mobile-flutter",
+  "package": "module_scheduler_queues_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/boilerplate/nextjs/scheduler-queues.md",
+  "presentationPlan": "projects/boilerplate/flutter/scheduler-queues.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
